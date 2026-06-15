@@ -54,14 +54,6 @@ py main.py
 
 If both players choose the same option, the round is a tie.
 
-## Project Structure
-
-```
-RockPaperScissors/
-├── main.py       # Game logic and CLI loop
-└── README.md     # Project documentation
-```
-
 ## Example Session
 
 ```
